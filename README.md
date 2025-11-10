@@ -9,7 +9,7 @@
 
 ## ⚙️ About Me  
 
-👋 Currently Working at Tech Mahindra** passionate about **Automation & Mmanual Testing,** Working with, **NI TestStand and NI LabVIEW** to develop reliable, scalable, and effective test system.  
+👋 Currently Working at Tech Mahindra** passionate about **Automation & Manual Testing,** Working with, **NI TestStand and NI LabVIEW** to develop reliable, scalable, and effective test system.  
 
 💡 I specialize in **NI LabVIEW**, **NI TestStand**, and **NI CompactDAQ (cDAQ)**, creating reliable, scalable test automation frameworks that connect hardware and software seamlessly.  
 
