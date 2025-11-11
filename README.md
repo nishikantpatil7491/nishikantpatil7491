@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nishikant Patil  
 
-## 💻 Software Engineer @Tech Mahindra 
+## 💻 Software Engineer @TechMahindra 
 
 🔹 Working on *Automation and Manual Testing* using *NI LabVIEW, **NI TestStand, and **NI cDAQ*  
 🔹 Enthusiastic about learning automation frameworks, data acquisition, and test development.
